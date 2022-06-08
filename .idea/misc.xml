@@ -4,6 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Jonathan/AndroidStudioProjects/VRmain/app/src/main/res/layout/activity_maps.xml" value="0.203125" />
+        <entry key="..\:/Users/Jonathan/AndroidStudioProjects/VRmain/app/src/main/res/layout/activity_saved_routes3.xml" value="0.203125" />
+        <entry key="..\:/Users/Jonathan/AndroidStudioProjects/VRmain/app/src/main/res/layout/activity_savedroutes.xml" value="0.25" />
+        <entry key="..\:/Users/Jonathan/AndroidStudioProjects/VRmain/app/src/main/res/layout/activity_settings.xml" value="0.203125" />
+        <entry key="..\:/Users/Jonathan/AndroidStudioProjects/VRmain/app/src/main/res/layout/layoutlist.xml" value="0.203125" />
       </map>
     </option>
   </component>
